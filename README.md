@@ -1,6 +1,10 @@
-### Projetos Escola
-## Criado para realização de minhas atividades escolares
-# Nome
+# Projetos Escola
+
+## Descrição:
+### Criado para realização de minhas atividades escolares
+
+## Eu:
+### Nome
 Nicolas Joffre
-# Serie
+### Serie
 3°A
